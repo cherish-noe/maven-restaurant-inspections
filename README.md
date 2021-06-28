@@ -6,7 +6,7 @@ This is Maven Analytics course project I have practiced.
 
 **The dataset** is from Maven Analytics Course.
 
-In the whole project, Power BI Desktop is for DAX calculations and Power BI service is for building Dashboard and collaboration.
+In the whole project, **Power BI Desktop** is for DAX calculations and **Power BI Service** is for building Dashboard and collaboration.
 
 
 **Requirements:**
